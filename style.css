@@ -1,0 +1,32 @@
+  .text-shadow-red{
+      color: white;
+      text-shadow: 2px 2px 5px red;
+    }
+
+  .text-shadow-black{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+  .bg-footer3 {
+    background: linear-gradient(40deg,rgb(32,150,255,.5),rgb(5,255,163,.5))!important;
+    text-shadow: 2px 2px 4px #000000;
+    -webkit-box-shadow: -2px -4px 14px -4px rgb(0 0 0 / 75%);
+    -moz-box-shadow: -2px -4px 14px -4px rgba(0,0,0,0.75);
+    box-shadow: -2px -4px 14px -4px rgb(0 0 0 / 75%);
+}
+
+.navber-gradient1 {
+  background: linear-gradient(40deg,#ee7752, #e73c7e, #23a6d5, #23d5ab);
+}
+.aqua-gradient {
+  background: linear-gradient(40deg,#2096ff,#05ffa3)!important;
+}
+
+.danger-gradient {
+  background: linear-gradient(40deg,#ff2020,#ab0e05)!important;
+}
+
+.blue-gradient {
+  background: linear-gradient(40deg,#202fff,#2105ab)!important;
+}
